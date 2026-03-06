@@ -1,0 +1,19 @@
+Copy-paste to BotFather via /setcommands:
+
+start - Welcome & quick start
+help - All commands
+split - Split an amount in the group
+balances - Who owes what
+nudge - Remind everyone who owes you
+settle - Record a cash payment
+trip - Trip mode (start/end/status)
+recurring - Recurring splits (rent, Netflix)
+currency - Set group currency
+dashboard - Your spending dashboard
+mystats - Monthly spending summary
+mybalances - Your debts across all groups
+budget - Set category spending limits
+history - Receipt history & search
+export - Download CSV report
+memory - Your financial relationship history
+oracle - AI prediction for your month ahead
